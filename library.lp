@@ -1,0 +1,13 @@
+(librepcb_library
+ (uuid ec301aa5-2955-462f-8987-2745b6a63c7c)
+ (version "0.0.1")
+ (author "LibrePCB")
+ (created 2016-09-28T21:48:03Z)
+ (modified 2016-09-28T21:48:03Z)
+ (deprecated false)
+ (name "Isabellenhütte")
+ (description "Precision and power resistors")
+ (keywords "")
+ (url "https://github.com/LibrePCB-Libraries/Isabellenhuette.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
