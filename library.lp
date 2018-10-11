@@ -3,7 +3,7 @@
  (description "Precision and power resistors from Isabellenhütte.")
  (keywords "")
  (author "LibrePCB")
- (version "0.0.1")
+ (version "0.1")
  (created 2016-09-28T21:48:03Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Isabellenhuette.lplib")
