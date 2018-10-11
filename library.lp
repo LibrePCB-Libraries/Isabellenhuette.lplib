@@ -1,6 +1,6 @@
 (librepcb_library ec301aa5-2955-462f-8987-2745b6a63c7c
  (name "Isabellenhütte")
- (description "Precision and power resistors from Isabellenhütte.")
+ (description "Precision and power resistors (inofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.1")
