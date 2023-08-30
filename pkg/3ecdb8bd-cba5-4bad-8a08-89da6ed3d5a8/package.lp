@@ -3,7 +3,7 @@
  (description "Custom chip resistor package for Isabellenhütte SMT 2817.")
  (keywords "")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2015-12-21T13:28:18Z)
  (deprecated false)
  (generated_by "")

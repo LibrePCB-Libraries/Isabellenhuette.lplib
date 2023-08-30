@@ -3,7 +3,7 @@
  (description "Isabellenhütte precision resistor 5W.")
  (keywords "")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2015-12-21T13:28:20Z)
  (deprecated false)
  (generated_by "")
